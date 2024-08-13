@@ -54,3 +54,9 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+#refresh {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}

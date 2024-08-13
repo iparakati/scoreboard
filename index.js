@@ -33,3 +33,10 @@ function addThreeGuest() {
     guestScoreActual += 3
     guestScore.textContent = guestScoreActual
 }
+
+function refresh() {
+    homeScoreActual = 0
+    guestScoreActual = 0
+    homeScore.textContent = guestScoreActual
+    guestScore.textContent = guestScoreActual
+}
